@@ -1,0 +1,4 @@
+# school precenteg calculeter
+# start
+
+#-------------
